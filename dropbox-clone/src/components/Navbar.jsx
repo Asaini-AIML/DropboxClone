@@ -1,6 +1,6 @@
 import React from "react";
 import logo from "../assets/images/Logo.png";
-import globe from "../assets/images/image.png";
+import globe from "../assets/images/globe.png";
 import { FaAngleDown } from "react-icons/fa6";
 
 const Navbar = () => {
